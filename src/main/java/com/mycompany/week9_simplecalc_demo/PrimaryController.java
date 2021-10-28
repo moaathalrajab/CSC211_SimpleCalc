@@ -44,6 +44,7 @@ public class PrimaryController {
 
     @FXML
     private void clear(ActionEvent event) {
+         tfShowOutput.clear();
     }
 
     @FXML
